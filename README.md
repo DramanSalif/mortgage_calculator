@@ -27,7 +27,7 @@ The Mortgage Calculator is a user-friendly Python application designed to help p
 
 - Python 3.6 or later
 - PostgreSQL (if user account features are implemented)
-- Required Python packages: `numpy`, `matplotlib`, `Flask` or `Django`, depending on your choice of framework
+- Required Python packages: `numpy`, `matplotlib`, `Flask`, depending on your choice of framework
 
 ### Steps
 
